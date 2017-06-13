@@ -1,1 +1,1 @@
-# bash-scripts-collection
+# bash-scripts-collection and some weblogic scripts
